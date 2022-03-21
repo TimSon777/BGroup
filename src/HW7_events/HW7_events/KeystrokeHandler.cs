@@ -8,7 +8,7 @@ public class KeystrokeHandler
     {
         while (true)
         {
-            var currentKey = Console.ReadKey().KeyChar;
+            var currentKey = Console.ReadKey(true).KeyChar;
             
             if (currentKey == 'c')
             {
