@@ -1,0 +1,3 @@
+[Info]: [HW10_template.TestTypes.String] : Info string
+[Warning] : [HW10_template.TestTypes.String] : Warning string
+[Error] : [HW10_template.TestTypes.String] : Error string. Omg2

@@ -1,0 +1,3 @@
+[Info]: [HW10_template.TestTypes.Integer] : Info integer
+[Warning] : [HW10_template.TestTypes.Integer] : Warning integer
+[Error] : [HW10_template.TestTypes.Integer] : Error integer. Omg
